@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+instance/
+*.db
+
+cookies.txt
+second_user_cookies.txt
